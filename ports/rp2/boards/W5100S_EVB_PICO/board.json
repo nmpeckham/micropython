@@ -7,7 +7,8 @@
         "Dual-core",
         "Ethernet",
         "External Flash",
-        "USB"
+        "USB",
+        "WiFi"
     ],
     "images": [
         "W5100S-EVB-Pico.jpg"
